@@ -1,0 +1,16 @@
+{
+  "name": "battery-api-before",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Test.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.3",
+    "nodemon": "^3.0.2"
+  }
+}

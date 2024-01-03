@@ -55,5 +55,3 @@ let func=async ()=>{
 };
 
 func();
-
-console.log()
